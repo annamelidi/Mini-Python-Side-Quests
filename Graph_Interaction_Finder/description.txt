@@ -1,0 +1,44 @@
+This mini project implements a graph-based system for analyzing relationships between entities. Given an input file containing connected nodes and weighted edges, the program provides two key capabilities:
+
+1. Path Existence – Determines whether a path exists between two given nodes.
+2. Shortest Path Calculation – If a path exists, identifies the shortest route based on edge weights.
+3. App visualizations of the graph with Streamlit
+
+Why This Matters?? 
+In Bioinformatics you can model protein–protein interactions, thereby discovering pathways, and gene regulatory networks. (Cytoscape, NetworkX, Neo4j)
+In social networks, see who knows who, maybe proving the "six degrees" theory.
+
+This project demonstrates a VERY lightweight, standalone implementation to just get my hands dirty with the underlying concepts.
+
+=====================================================================================================================================
+
+**Input/output**
+The program is given a graph file as input on the command line. A graph file is a tab delimited file, that looks like this (social network example):
+
+Chris Workman     Peter Wad Sackett       1
+Chris Workman     Mette Voldbye           2
+Carsten Friis     Sune Frankild           4
+
+Each line contains an edge in the graph, given by the name of the two connected nodes, and a weight. All edges are two-way, i.e. if Chris knows Peter, then Peter knows Chris.
+Having read the file and constructed the internal data structures, that represents the graph the program should ask for two nodes (names in this example) and find the shortest path between them, if any, and print out the result.
+
+*Example output*
+No node is named Anders Fjog
+There is no path between Sune Frankild and Mette Voldbye
+Shortest path: Chris Workman -> Peter Wad Sackett, weight 1
+Shortest path: Mette Voldbye -> Chris Workman -> Peter Wad Sackett, weight 3
+
+*Examples of program execution*
+python run.py humanPPint.lst COL4A2 IL12A
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Details
+If there is more than one path between two nodes, then the shortest path should be selected. The length of the path is determined by the weight of the edge between two nodes.
+The weights are simply added together, smallest number wins. The program is a general purpose tool.
+The nature of the graphs and thereby the problems that can be solved, are changed by either giving all edges the same weight, or different weights. Even negative weights are possible, making certain edges hugely preferred.
+
+Good resource and inspiration on the problem: https://en.wikipedia.org/wiki/Shortest_path_problem
+
+Here is a list of human protein-protein interactions. https://teaching.healthtech.dtu.dk/material/22113/humanPPint.lst
+Your program should detect that COL4A2 <=> Nid2 <=> ITGA5 <=> Vpr <=> IL12A are interacting like this and TPD52 and RasGRP3 do not interact.
+Note that COL4A2 and IL12A can interact in other equally short ways.
