@@ -1,0 +1,34 @@
+Objective: Identify human genes whose proteins are localized in more than one subcellular compartment and save them in FASTA format. 
+In the input database there are many swissprot entries and the program must handle that.
+
+Proteins can function in multiple regions of a cell, and mapping these multi-compartment proteins is critical for understanding protein function, cellular pathways, and disease mechanisms
+
+Great tools for PREDICTING subcellular localization exist (PSORT, DeepLoc, CELLO..). Unlike these prediction tools, this project simply 
+PARSES experimental evidence from SwissProt entries (ECO:0000269), so only verified localizations are considered.
+
+How to pick the right entries/genes:
+
+First of all we are only interested in human genes. The means that the OS line must contain "Homo sapiens". For finding entries with where the gene is present in more than one region,
+we need to look at the CC lines. There is a pattern in how the CC lines are constructed. We are only interested in this section:
+
+"CC   -!- SUBCELLULAR LOCATION:"
+
+When that is found, it can be seen that it consist of lines like
+
+"Cytoplasm {ECO:0000269|PubMed:12080473}."
+
+Every such line depicts a region in the cell where the protein is found. The words before the { is the location and text inside the {} is the evidence where this has been found.
+We are only interested in locations where the evidence code is ECO:0000269, as this means it has been experimentally proven. Note there are no more locations when you see the "Note=" in the paragraph.
+To conclude: In order to determine if you must extract the gene, then it must be a human gene, and the subcellular location paragraph in the CC lines must contain more than one location with ECO:0000269.
+
+So: 
+--------------------------
+Input / Output
+Input: Subset of SwissProt database (uniprot_sprot.dat.gz).
+Processing:
+Filter for human genes (OS Homo sapiens).
+Identify subcellular locations in CC -!- SUBCELLULAR LOCATION: sections.
+Keep only locations with experimental evidence (ECO:0000269).
+Select genes with more than one experimentally verified location.
+Output: A FASTA file containing protein sequences. Each header includes the SwissProt ID.
+-----------------------------------------------

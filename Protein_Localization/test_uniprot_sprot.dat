@@ -1,0 +1,563 @@
+ID   CASC3_HUMAN             Reviewed;         703 AA.
+AC   O15234; A8K8R0;
+OS   Homo sapiens (Human).
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:12080473}.
+CC       Cytoplasm, perinuclear region {ECO:0000250|UniProtKB:Q8K3W3}.
+CC       Nucleus {ECO:0000269|PubMed:12080473, ECO:0000269|PubMed:28502770,
+CC       ECO:0000269|PubMed:29301961}. Nucleus speckle
+CC       {ECO:0000269|PubMed:16170325}. Cytoplasm, Stress granule
+CC       {ECO:0000269|PubMed:17652158}. Cytoplasm, Cytoplasmic
+CC       ribonucleoprotein granule {ECO:0000250|UniProtKB:Q8K3X0}.
+SQ   SEQUENCE   703 AA;  76278 MW;  642A4C01C8DD3BE0 CRC64;
+     MADRRRQRAS QDTEDEESGA SGSDSGGSPL RGGGSCSGSA GGGGSGSLPS QRGGRTGALH
+     LRRVESGGAK SAEESECESE DGIEGDAVLS DYESAEDSEG EEGEYSEEEN SKVELKSEAN
+     DAVNSSTKEE KGEEKPDTKS TVTGERQSGD GQESTEPVEN KVGKKGPKHL DDDEDRKNPA
+     YIPRKGLFFE HDLRGQTQEE EVRPKGRQRK LWKDEGRWEH DKFREDEQAP KSRQELIALY
+     GYDIRSAHNP DDIKPRRIRK PRYGSPPQRD PNWNGERLNK SHRHQGLGGT LPPRTFINRN
+     AAGTGRMSAP RNYSRSGGFK EGRAGFRPVE AGGQHGGRSG ETVKHEISYR SRRLEQTSVR
+     DPSPEADAPV LGSPEKEEAA SEPPAAAPDA APPPPDRPIE KKSYSRARRT RTKVGDAVKL
+     AEEVPPPPEG LIPAPPVPET TPTPPTKTGT WEAPVDSSTS GLEQDVAQLN IAEQNWSPGQ
+     PSFLQPRELR GMPNHIHMGA GPPPQFNRME EMGVQGGRAK RYSSQRQRPV PEPPAPPVHI
+     SIMEGHYYDP LQFQGPIYTH GDSPAPLPPQ GMLVQPGMNL PHPGLHPHQT PAPLPNPGLY
+     PPPVSMSPGQ PPPQQLLAPT YFSAPGVMNF GNPSYPYAPG ALPPPPPPHL YPNTQAPSQV
+     YGGVTYYNPA QQQVQPKPSP PRRTPQPVTI KPPPPEVVSR GSS
+//
+ID   CAAAA_HUMAN             Reviewed;         703 AA.
+AC   O15234; A8K8R0;
+OS   Homo sapiens (Human).
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:12080473}.
+SQ   SEQUENCE   703 AA;  76278 MW;  642A4C01C8DD3BE0 CRC64;
+     AAAAAAAAAA QDTEDEESGA SGSDSGGSPL RGGGSCSGSA GGGGSGSLPS QRGGRTGALH
+     LRRVESGGAK SAEESECESE DGIEGDAVLS DYESAEDSEG EEGEYSEEEN SKVELKSEAN
+     DAVNSSTKEE KGEEKPDTKS TVTGERQSGD GQESTEPVEN KVGKKGPKHL DDDEDRKNPA
+     YIPRKGLFFE HDLRGQTQEE EVRPKGRQRK LWKDEGRWEH DKFREDEQAP KSRQELIALY
+     GYDIRSAHNP DDIKPRRIRK PRYGSPPQRD PNWNGERLNK SHRHQGLGGT LPPRTFINRN
+     AAGTGRMSAP RNYSRSGGFK EGRAGFRPVE AGGQHGGRSG ETVKHEISYR SRRLEQTSVR
+     DPSPEADAPV LGSPEKEEAA SEPPAAAPDA APPPPDRPIE KKSYSRARRT RTKVGDAVKL
+     AEEVPPPPEG LIPAPPVPET TPTPPTKTGT WEAPVDSSTS GLEQDVAQLN IAEQNWSPGQ
+     PSFLQPRELR GMPNHIHMGA GPPPQFNRME EMGVQGGRAK RYSSQRQRPV PEPPAPPVHI
+     SIMEGHYYDP LQFQGPIYTH GDSPAPLPPQ GMLVQPGMNL PHPGLHPHQT PAPLPNPGLY
+     PPPVSMSPGQ PPPQQLLAPT YFSAPGVMNF GNPSYPYAPG ALPPPPPPHL YPNTQAPSQV
+     YGGVTYYNPA QQQVQPKPSP PRRTPQPVTI KPPPPEVVSR GSS
+//
+ID   APBP2_HUMAN             Reviewed;         585 AA.
+AC   Q92624; A8K862; O95095; Q8WVC9;
+DT   19-JUL-2004, integrated into UniProtKB/Swiss-Prot.
+DT   19-JUL-2004, sequence version 2.
+DT   18-JUN-2025, entry version 196.
+DE   RecName: Full=Amyloid protein-binding protein 2 {ECO:0000305};
+DE   AltName: Full=Amyloid beta precursor protein-binding protein 2 {ECO:0000303|PubMed:26138980};
+DE            Short=APP-BP2 {ECO:0000303|PubMed:26138980};
+DE   AltName: Full=Protein interacting with APP tail 1 {ECO:0000303|PubMed:9843960};
+GN   Name=APPBP2 {ECO:0000303|PubMed:26138980, ECO:0000312|HGNC:HGNC:622};
+GN   Synonyms=KIAA0228 {ECO:0000303|PubMed:9039502}, PAT1
+GN   {ECO:0000303|PubMed:9843960};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, INTERACTION WITH APP, AND SUBCELLULAR
+RP   LOCATION.
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=9843960; DOI=10.1073/pnas.95.25.14745;
+RA   Zheng P., Eastman J., Vande Pol S., Pimplikar S.W.;
+RT   "PAT1, a microtubule-interacting protein, recognizes the basolateral
+RT   sorting signal of amyloid precursor protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:14745-14750(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Bone marrow;
+RX   PubMed=9039502; DOI=10.1093/dnares/3.5.321;
+RA   Nagase T., Seki N., Ishikawa K., Ohira M., Kawarabayasi Y., Ohara O.,
+RA   Tanaka A., Kotani H., Miyajima N., Nomura N.;
+RT   "Prediction of the coding sequences of unidentified human genes. VI. The
+RT   coding sequences of 80 new genes (KIAA0201-KIAA0280) deduced by analysis of
+RT   cDNA clones from cell line KG-1 and brain.";
+RL   DNA Res. 3:321-329(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PROTEASOMAL DEGRADATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=11742091; DOI=10.1073/pnas.261463298;
+RA   Gao Y., Pimplikar S.W.;
+RT   "The gamma -secretase-cleaved C-terminal fragment of amyloid precursor
+RT   protein mediates signaling to the nucleus.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:14979-14984(2001).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=26138980; DOI=10.1126/science.aab0515;
+RA   Lin H.C., Ho S.C., Chen Y.Y., Khoo K.H., Hsu P.H., Yen H.C.;
+RT   "SELENOPROTEINS. CRL2 aids elimination of truncated selenoproteins produced
+RT   by failed UGA/Sec decoding.";
+RL   Science 349:91-95(2015).
+RN   [8]
+RP   FUNCTION, PATHWAY, AND IDENTIFICATION IN A CRL2 E3 UBIQUITIN-PROTEIN LIGASE
+RP   COMPLEX.
+RX   PubMed=29779948; DOI=10.1016/j.cell.2018.04.028;
+RA   Koren I., Timms R.T., Kula T., Xu Q., Li M.Z., Elledge S.J.;
+RT   "The eukaryotic proteome is shaped by E3 ubiquitin ligases targeting C-
+RT   terminal degrons.";
+RL   Cell 173:1622-1635(2018).
+RN   [9]
+RP   FUNCTION, PATHWAY, IDENTIFICATION IN A CRL2 E3 UBIQUITIN-PROTEIN LIGASE
+RP   COMPLEX, INTERACTION WITH APP, AND ACTIVITY REGULATION.
+RX   PubMed=29775578; DOI=10.1016/j.molcel.2018.04.006;
+RA   Lin H.C., Yeh C.W., Chen Y.F., Lee T.T., Hsieh P.Y., Rusnac D.V., Lin S.Y.,
+RA   Elledge S.J., Zheng N., Yen H.S.;
+RT   "C-terminal end-directed protein elimination by CRL2 ubiquitin ligases.";
+RL   Mol. Cell 70:602-613(2018).
+CC   -!- FUNCTION: Substrate-recognition component of a Cul2-RING (CRL2) E3
+CC       ubiquitin-protein ligase complex of the DesCEND (destruction via C-end
+CC       degrons) pathway, which recognizes a C-degron located at the extreme C
+CC       terminus of target proteins, leading to their ubiquitination and
+CC       degradation (PubMed:29775578, PubMed:29779948). The C-degron recognized
+CC       by the DesCEND pathway is usually a motif of less than ten residues and
+CC       can be present in full-length proteins, truncated proteins or
+CC       proteolytically cleaved forms (PubMed:29775578, PubMed:29779948). The
+CC       CRL2(APPBP2) complex specifically recognizes proteins with a -Arg-Xaa-
+CC       Xaa-Gly degron at the C-terminus, leading to their ubiquitination and
+CC       degradation (PubMed:29775578, PubMed:29779948). The CRL2(APPBP2)
+CC       complex mediates ubiquitination and degradation of truncated SELENOV
+CC       selenoproteins produced by failed UGA/Sec decoding, which end with a
+CC       -Arg-Xaa-Xaa-Gly degron (PubMed:26138980). May play a role in
+CC       intracellular protein transport: may be involved in the translocation
+CC       of APP along microtubules toward the cell surface (PubMed:9843960).
+CC       {ECO:0000269|PubMed:26138980, ECO:0000269|PubMed:29775578,
+CC       ECO:0000269|PubMed:29779948, ECO:0000269|PubMed:9843960}.
+CC   -!- ACTIVITY REGULATION: E3 ubiquitin-protein ligase activity of the
+CC       CRL2(APPBP2) complex is inhibited by APP.
+CC       {ECO:0000269|PubMed:29775578}.
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC       {ECO:0000269|PubMed:29775578, ECO:0000269|PubMed:29779948}.
+CC   -!- SUBUNIT: Component of a CRL2 E3 ubiquitin-protein ligase complex, also
+CC       named ECS (Elongin BC-CUL2/5-SOCS-box protein) complex, composed of
+CC       CUL2, Elongin BC (ELOB and ELOC), RBX1 and substrate-specific adapter
+CC       APPBP2 (PubMed:29775578, PubMed:29779948). Interacts with APP; APP
+CC       interaction inhibits the E3 ubiquitin-protein ligase activity of the
+CC       CRL2(APPBP2) complex (PubMed:29775578, PubMed:9843960).
+CC       {ECO:0000269|PubMed:29775578, ECO:0000269|PubMed:29779948,
+CC       ECO:0000269|PubMed:9843960}.
+CC   -!- INTERACTION:
+CC       Q92624; P22760: AADAC; NbExp=3; IntAct=EBI-743771, EBI-13217105;
+CC       Q92624; P12814: ACTN1; NbExp=3; IntAct=EBI-743771, EBI-351710;
+CC       Q92624; P23526: AHCY; NbExp=3; IntAct=EBI-743771, EBI-1053240;
+CC       Q92624; Q9UIJ7: AK3; NbExp=6; IntAct=EBI-743771, EBI-3916527;
+CC       Q92624; O75891-4: ALDH1L1; NbExp=3; IntAct=EBI-743771, EBI-12400198;
+CC       Q92624; Q8IUW1: ANKRD10; NbExp=3; IntAct=EBI-743771, EBI-10261416;
+CC       Q92624; Q9NXR5: ANKRD10; NbExp=3; IntAct=EBI-743771, EBI-10316475;
+CC       Q92624; P05067: APP; NbExp=3; IntAct=EBI-743771, EBI-77613;
+CC       Q92624; Q6P1M9: ARMCX5; NbExp=6; IntAct=EBI-743771, EBI-10252512;
+CC       Q92624; Q9HD20-3: ATP13A1; NbExp=3; IntAct=EBI-743771, EBI-12069500;
+CC       Q92624; Q4VC05-2: BCL7A; NbExp=3; IntAct=EBI-743771, EBI-12065992;
+CC       Q92624; Q9UBW5: BIN2; NbExp=3; IntAct=EBI-743771, EBI-2042570;
+CC       Q92624; Q9BTE2: C16orf35; NbExp=3; IntAct=EBI-743771, EBI-10298364;
+CC       Q92624; Q9BV19: C1orf50; NbExp=6; IntAct=EBI-743771, EBI-2874661;
+CC       Q92624; Q5I0X4: C6orf226; NbExp=6; IntAct=EBI-743771, EBI-10244057;
+CC       Q92624; Q9P0B6: CCDC167; NbExp=3; IntAct=EBI-743771, EBI-9083477;
+CC       Q92624; Q9UK58: CCNL1; NbExp=3; IntAct=EBI-743771, EBI-2836773;
+CC       Q92624; Q00536: CDK16; NbExp=3; IntAct=EBI-743771, EBI-726261;
+CC       Q92624; P35523: CLCN1; NbExp=6; IntAct=EBI-743771, EBI-10206780;
+CC       Q92624; Q17RW2: COL24A1; NbExp=6; IntAct=EBI-743771, EBI-2529266;
+CC       Q92624; Q9UQ03: CORO2B; NbExp=6; IntAct=EBI-743771, EBI-723376;
+CC       Q92624; P48730-2: CSNK1D; NbExp=3; IntAct=EBI-743771, EBI-9087876;
+CC       Q92624; P78368: CSNK1G2; NbExp=3; IntAct=EBI-743771, EBI-748380;
+CC       Q92624; P09228: CST2; NbExp=3; IntAct=EBI-743771, EBI-8832659;
+CC       Q92624; Q2NKJ3: CTC1; NbExp=3; IntAct=EBI-743771, EBI-2562802;
+CC       Q92624; P81605: DCD; NbExp=3; IntAct=EBI-743771, EBI-395625;
+CC       Q92624; Q13268: DHRS2; NbExp=3; IntAct=EBI-743771, EBI-354324;
+CC       Q92624; Q9UPQ8: DOLK; NbExp=3; IntAct=EBI-743771, EBI-8645574;
+CC       Q92624; P16444: DPEP1; NbExp=3; IntAct=EBI-743771, EBI-749514;
+CC       Q92624; Q14117: DPYS; NbExp=3; IntAct=EBI-743771, EBI-12275416;
+CC       Q92624; Q96HE7: ERO1A; NbExp=3; IntAct=EBI-743771, EBI-2564539;
+CC       Q92624; Q12841: FSTL1; NbExp=8; IntAct=EBI-743771, EBI-2349801;
+CC       Q92624; P58549: FXYD7; NbExp=6; IntAct=EBI-743771, EBI-10216171;
+CC       Q92624; Q14435-2: GALNT3; NbExp=3; IntAct=EBI-743771, EBI-10232904;
+CC       Q92624; Q8N6F7: GCSAM; NbExp=6; IntAct=EBI-743771, EBI-10267082;
+CC       Q92624; A0A0C4DFY5: GPRC5C; NbExp=3; IntAct=EBI-743771, EBI-12364679;
+CC       Q92624; P09211: GSTP1; NbExp=6; IntAct=EBI-743771, EBI-353467;
+CC       Q92624; B4DJ51: HEL-S-72; NbExp=3; IntAct=EBI-743771, EBI-10171450;
+CC       Q92624; Q04756: HGFAC; NbExp=3; IntAct=EBI-743771, EBI-1041722;
+CC       Q92624; Q8NE63: HIPK4; NbExp=3; IntAct=EBI-743771, EBI-6381114;
+CC       Q92624; A4FTV9: HIST1H2AK; NbExp=3; IntAct=EBI-743771, EBI-10173457;
+CC       Q92624; Q9H2F3: HSD3B7; NbExp=3; IntAct=EBI-743771, EBI-3918847;
+CC       Q92624; P34932: HSPA4; NbExp=6; IntAct=EBI-743771, EBI-356933;
+CC       Q92624; Q14164: IKBKE; NbExp=4; IntAct=EBI-743771, EBI-307369;
+CC       Q92624; P16144-2: ITGB4; NbExp=3; IntAct=EBI-743771, EBI-11051601;
+CC       Q92624; P18084: ITGB5; NbExp=3; IntAct=EBI-743771, EBI-1223434;
+CC       Q92624; P50053-2: KHK; NbExp=3; IntAct=EBI-743771, EBI-12204387;
+CC       Q92624; Q6ZMV9: KIF6; NbExp=3; IntAct=EBI-743771, EBI-751100;
+CC       Q92624; O14901: KLF11; NbExp=3; IntAct=EBI-743771, EBI-948266;
+CC       Q92624; Q6PF15: KLHL35; NbExp=6; IntAct=EBI-743771, EBI-9477654;
+CC       Q92624; Q9NS86: LANCL2; NbExp=6; IntAct=EBI-743771, EBI-2510837;
+CC       Q92624; Q496Y0: LONRF3; NbExp=3; IntAct=EBI-743771, EBI-2690768;
+CC       Q92624; Q9Y383: LUC7L2; NbExp=6; IntAct=EBI-743771, EBI-352851;
+CC       Q92624; Q9P127: LUZP4; NbExp=6; IntAct=EBI-743771, EBI-10198848;
+CC       Q92624; Q9Y2E5: MAN2B2; NbExp=3; IntAct=EBI-743771, EBI-12243024;
+CC       Q92624; Q9GZU1: MCOLN1; NbExp=3; IntAct=EBI-743771, EBI-721209;
+CC       Q92624; Q9UQ53: MGAT4B; NbExp=3; IntAct=EBI-743771, EBI-725713;
+CC       Q92624; P42568: MLLT3; NbExp=4; IntAct=EBI-743771, EBI-716132;
+CC       Q92624; C0H5X0: MMP28; NbExp=3; IntAct=EBI-743771, EBI-12286419;
+CC       Q92624; P43246: MSH2; NbExp=3; IntAct=EBI-743771, EBI-355888;
+CC       Q92624; Q13421-3: MSLN; NbExp=3; IntAct=EBI-743771, EBI-12303989;
+CC       Q92624; Q969V5: MUL1; NbExp=6; IntAct=EBI-743771, EBI-744120;
+CC       Q92624; Q15746-7: MYLK; NbExp=3; IntAct=EBI-743771, EBI-12189939;
+CC       Q92624; P23511: NFYA; NbExp=3; IntAct=EBI-743771, EBI-389739;
+CC       Q92624; O14745: NHERF1; NbExp=3; IntAct=EBI-743771, EBI-349787;
+CC       Q92624; Q9BRL4: PCTK1; NbExp=3; IntAct=EBI-743771, EBI-10296950;
+CC       Q92624; Q7Z6Z6: PNPLA5; NbExp=3; IntAct=EBI-743771, EBI-12241582;
+CC       Q92624; Q8IXY8: PPIL6; NbExp=3; IntAct=EBI-743771, EBI-12226639;
+CC       Q92624; Q12972: PPP1R8; NbExp=3; IntAct=EBI-743771, EBI-716633;
+CC       Q92624; Q12972-2: PPP1R8; NbExp=3; IntAct=EBI-743771, EBI-12252736;
+CC       Q92624; P54646: PRKAA2; NbExp=3; IntAct=EBI-743771, EBI-1383852;
+CC       Q92624; P22694: PRKACB; NbExp=3; IntAct=EBI-743771, EBI-2679622;
+CC       Q92624; P07602: PSAP; NbExp=3; IntAct=EBI-743771, EBI-716699;
+CC       Q92624; Q13635-3: PTCH1; NbExp=3; IntAct=EBI-743771, EBI-14199621;
+CC       Q92624; Q8N2H3: PYROXD2; NbExp=3; IntAct=EBI-743771, EBI-3919450;
+CC       Q92624; Q96AH8: RAB7B; NbExp=3; IntAct=EBI-743771, EBI-3924400;
+CC       Q92624; Q15382: RHEB; NbExp=3; IntAct=EBI-743771, EBI-1055287;
+CC       Q92624; Q5EBL4-3: RILPL1; NbExp=3; IntAct=EBI-743771, EBI-12072024;
+CC       Q92624; Q8TEB7: RNF128; NbExp=3; IntAct=EBI-743771, EBI-2341619;
+CC       Q92624; Q969K3: RNF34; NbExp=3; IntAct=EBI-743771, EBI-2340642;
+CC       Q92624; O60942: RNGTT; NbExp=3; IntAct=EBI-743771, EBI-1237132;
+CC       Q92624; Q15050: RRS1; NbExp=7; IntAct=EBI-743771, EBI-749186;
+CC       Q92624; P59797: SELENOV; NbExp=3; IntAct=EBI-743771, EBI-10216195;
+CC       Q92624; Q8WU57: SELI; NbExp=3; IntAct=EBI-743771, EBI-751012;
+CC       Q92624; Q4U2R8: SLC22A6; NbExp=3; IntAct=EBI-743771, EBI-749741;
+CC       Q92624; Q9BV35: SLC25A23; NbExp=3; IntAct=EBI-743771, EBI-2933255;
+CC       Q92624; Q9NS82: SLC7A10; NbExp=3; IntAct=EBI-743771, EBI-12068238;
+CC       Q92624; Q9Y5X3: SNX5; NbExp=3; IntAct=EBI-743771, EBI-715760;
+CC       Q92624; Q9Y5X3-2: SNX5; NbExp=3; IntAct=EBI-743771, EBI-12229025;
+CC       Q92624; P0CI01: SPDYE6; NbExp=3; IntAct=EBI-743771, EBI-11960469;
+CC       Q92624; O15466: ST8SIA5; NbExp=3; IntAct=EBI-743771, EBI-10182857;
+CC       Q92624; Q9UMZ2: SYNRG; NbExp=3; IntAct=EBI-743771, EBI-7240490;
+CC       Q92624; Q9UMZ2-8: SYNRG; NbExp=3; IntAct=EBI-743771, EBI-12353261;
+CC       Q92624; Q9BT88: SYT11; NbExp=3; IntAct=EBI-743771, EBI-751770;
+CC       Q92624; Q15544: TAF11; NbExp=6; IntAct=EBI-743771, EBI-1027005;
+CC       Q92624; Q96LR4: TAFA4; NbExp=3; IntAct=EBI-743771, EBI-10290841;
+CC       Q92624; Q12788: TBL3; NbExp=4; IntAct=EBI-743771, EBI-715766;
+CC       Q92624; Q9BQ70: TCF25; NbExp=3; IntAct=EBI-743771, EBI-745182;
+CC       Q92624; Q05952: TNP2; NbExp=3; IntAct=EBI-743771, EBI-12039775;
+CC       Q92624; Q8IZ69: TRMT2A; NbExp=3; IntAct=EBI-743771, EBI-2515774;
+CC       Q92624; Q712K3: UBE2R2; NbExp=3; IntAct=EBI-743771, EBI-2340879;
+CC       Q92624; Q9NYU1: UGGT2; NbExp=3; IntAct=EBI-743771, EBI-1054215;
+CC       Q92624; P42768: WAS; NbExp=3; IntAct=EBI-743771, EBI-346375;
+CC       Q92624; Q96S15: WDR24; NbExp=4; IntAct=EBI-743771, EBI-746424;
+CC       Q92624; Q96NZ8: WFIKKN1; NbExp=3; IntAct=EBI-743771, EBI-2363713;
+CC       Q92624; Q96K80: ZC3H10; NbExp=3; IntAct=EBI-743771, EBI-742550;
+CC       Q92624; Q9BV97: ZNF747; NbExp=3; IntAct=EBI-743771, EBI-4395497;
+CC       Q92624; Q9H669; NbExp=3; IntAct=EBI-743771, EBI-10307430;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11742091}. Cytoplasm,
+CC       cytoskeleton {ECO:0000269|PubMed:9843960}. Membrane
+CC       {ECO:0000269|PubMed:9843960}; Peripheral membrane protein
+CC       {ECO:0000269|PubMed:9843960}. Note=Associated with membranes and
+CC       microtubules. {ECO:0000269|PubMed:9843960}.
+CC   -!- PTM: Rapidly degraded by the proteasome upon overexpression of a C-
+CC       terminal fragment of APP. {ECO:0000269|PubMed:11742091}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA13217.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF017782; AAC83973.1; -; mRNA.
+DR   EMBL; D86981; BAA13217.1; ALT_INIT; mRNA.
+DR   EMBL; AK292227; BAF84916.1; -; mRNA.
+DR   EMBL; CH471179; EAW51406.1; -; Genomic_DNA.
+DR   EMBL; BC018121; AAH18121.1; -; mRNA.
+DR   CCDS; CCDS32699.1; -.
+DR   RefSeq; NP_001269405.1; NM_001282476.1.
+DR   RefSeq; NP_006371.2; NM_006380.3.
+DR   PDB; 8JAL; EM; 3.30 A; A/B=1-585.
+DR   PDB; 8JAQ; EM; 3.26 A; A/B/J/K=1-578.
+DR   PDB; 8JAR; EM; 3.30 A; A/B=1-579.
+DR   PDB; 8JAS; EM; 3.54 A; A/B/J/K=1-585.
+DR   PDB; 8JAU; EM; 3.22 A; A/B=1-585.
+DR   PDB; 8JAV; EM; 3.44 A; A/B/J/K=1-585.
+DR   PDBsum; 8JAL; -.
+DR   PDBsum; 8JAQ; -.
+DR   PDBsum; 8JAR; -.
+DR   PDBsum; 8JAS; -.
+DR   PDBsum; 8JAU; -.
+DR   PDBsum; 8JAV; -.
+DR   AlphaFoldDB; Q92624; -.
+DR   EMDB; EMD-36129; -.
+DR   EMDB; EMD-36131; -.
+DR   EMDB; EMD-36132; -.
+DR   EMDB; EMD-36133; -.
+DR   EMDB; EMD-36134; -.
+DR   EMDB; EMD-36135; -.
+DR   SMR; Q92624; -.
+DR   BioGRID; 115769; 194.
+DR   ComplexPortal; CPX-2221; APPBP2-Elongin C-Elongin B E3 ubiquitin ligase complex.
+DR   CORUM; Q92624; -.
+DR   FunCoup; Q92624; 3957.
+DR   IntAct; Q92624; 178.
+DR   MINT; Q92624; -.
+DR   STRING; 9606.ENSP00000083182; -.
+DR   iPTMnet; Q92624; -.
+DR   PhosphoSitePlus; Q92624; -.
+DR   BioMuta; APPBP2; -.
+DR   DMDM; 50400598; -.
+DR   jPOST; Q92624; -.
+DR   MassIVE; Q92624; -.
+DR   PaxDb; 9606-ENSP00000083182; -.
+DR   PeptideAtlas; Q92624; -.
+DR   ProteomicsDB; 75379; -.
+DR   Pumba; Q92624; -.
+DR   Antibodypedia; 31181; 327 antibodies from 30 providers.
+DR   DNASU; 10513; -.
+DR   Ensembl; ENST00000083182.8; ENSP00000083182.3; ENSG00000062725.10.
+DR   GeneID; 10513; -.
+DR   KEGG; hsa:10513; -.
+DR   MANE-Select; ENST00000083182.8; ENSP00000083182.3; NM_006380.5; NP_006371.2.
+DR   UCSC; uc002iys.3; human.
+DR   AGR; HGNC:622; -.
+DR   CTD; 10513; -.
+DR   DisGeNET; 10513; -.
+DR   GeneCards; APPBP2; -.
+DR   HGNC; HGNC:622; APPBP2.
+DR   HPA; ENSG00000062725; Low tissue specificity.
+DR   MIM; 605324; gene.
+DR   neXtProt; NX_Q92624; -.
+DR   OpenTargets; ENSG00000062725; -.
+DR   PharmGKB; PA24912; -.
+DR   VEuPathDB; HostDB:ENSG00000062725; -.
+DR   eggNOG; KOG1840; Eukaryota.
+DR   GeneTree; ENSGT00390000010722; -.
+DR   HOGENOM; CLU_019378_1_0_1; -.
+DR   InParanoid; Q92624; -.
+DR   OMA; YAESSHC; -.
+DR   OrthoDB; 7103806at2759; -.
+DR   PAN-GO; Q92624; 3 GO annotations based on evolutionary models.
+DR   PhylomeDB; Q92624; -.
+DR   TreeFam; TF314010; -.
+DR   PathwayCommons; Q92624; -.
+DR   SignaLink; Q92624; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 10513; 12 hits in 1158 CRISPR screens.
+DR   ChiTaRS; APPBP2; human.
+DR   GeneWiki; APPBP2; -.
+DR   GenomeRNAi; 10513; -.
+DR   Pharos; Q92624; Tbio.
+DR   PRO; PR:Q92624; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q92624; protein.
+DR   Bgee; ENSG00000062725; Expressed in endothelial cell and 210 other cell types or tissues.
+DR   ExpressionAtlas; Q92624; baseline and differential.
+DR   GO; GO:0031462; C:Cul2-RING ubiquitin ligase complex; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0030659; C:cytoplasmic vesicle membrane; IDA:MGI.
+DR   GO; GO:0005874; C:microtubule; IEA:UniProtKB-KW.
+DR   GO; GO:0005875; C:microtubule associated complex; TAS:ProtInc.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; NAS:UniProtKB.
+DR   GO; GO:0003777; F:microtubule motor activity; TAS:ProtInc.
+DR   GO; GO:1990756; F:ubiquitin-like ligase-substrate adaptor activity; IDA:UniProtKB.
+DR   GO; GO:0006886; P:intracellular protein transport; TAS:ProtInc.
+DR   GO; GO:0046907; P:intracellular transport; IDA:MGI.
+DR   GO; GO:0043161; P:proteasome-mediated ubiquitin-dependent protein catabolic process; IDA:UniProtKB.
+DR   GO; GO:0016567; P:protein ubiquitination; IEA:UniProtKB-UniPathway.
+DR   FunFam; 1.25.40.10:FF:000177; Amyloid beta precursor protein binding protein 2; 1.
+DR   FunFam; 1.25.40.10:FF:000152; Amyloid protein-binding protein 2 isoform 1; 1.
+DR   Gene3D; 1.25.40.10; Tetratricopeptide repeat domain; 2.
+DR   InterPro; IPR042476; APPBP2.
+DR   InterPro; IPR011990; TPR-like_helical_dom_sf.
+DR   InterPro; IPR019734; TPR_rpt.
+DR   PANTHER; PTHR46575; AMYLOID PROTEIN-BINDING PROTEIN 2; 1.
+DR   PANTHER; PTHR46575:SF1; AMYLOID PROTEIN-BINDING PROTEIN 2; 1.
+DR   Pfam; PF13374; TPR_10; 1.
+DR   Pfam; PF13424; TPR_12; 1.
+DR   SMART; SM00028; TPR; 3.
+DR   SUPFAM; SSF48452; TPR-like; 2.
+DR   PROSITE; PS50005; TPR; 2.
+DR   PROSITE; PS50293; TPR_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; Cytoskeleton; Membrane; Microtubule; Nucleus;
+KW   Protein transport; Proteomics identification; Reference proteome; Repeat;
+KW   TPR repeat; Transport; Ubl conjugation pathway.
+FT   CHAIN           1..585
+FT                   /note="Amyloid protein-binding protein 2"
+FT                   /id="PRO_0000106259"
+FT   REPEAT          50..83
+FT                   /note="TPR 1"
+FT   REPEAT          120..153
+FT                   /note="TPR 2"
+FT   REPEAT          206..239
+FT                   /note="TPR 3"
+FT   REPEAT          288..321
+FT                   /note="TPR 4"
+FT   REPEAT          333..367
+FT                   /note="TPR 5"
+FT   REPEAT          429..462
+FT                   /note="TPR 6"
+FT   REPEAT          471..505
+FT                   /note="TPR 7"
+FT   REPEAT          514..547
+FT                   /note="TPR 8"
+FT   VARIANT         561
+FT                   /note="S -> N (in dbSNP:rs34146848)"
+FT                   /id="VAR_052606"
+FT   CONFLICT        296
+FT                   /note="F -> L (in Ref. 1; AAC83973)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        325
+FT                   /note="K -> R (in Ref. 1; AAC83973)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        340
+FT                   /note="S -> C (in Ref. 1; AAC83973)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        354
+FT                   /note="L -> V (in Ref. 1; AAC83973)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        369
+FT                   /note="P -> R (in Ref. 1; AAC83973)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        542
+FT                   /note="N -> K (in Ref. 1; AAC83973)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           13..23
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           26..28
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   TURN            29..31
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           32..34
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           37..49
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           53..60
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           63..69
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           77..89
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           93..108
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   STRAND          109..111
+FT                   /evidence="ECO:0007829|PDB:8JAR"
+FT   HELIX           113..132
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           136..152
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           156..174
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   TURN            175..177
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           179..181
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           182..199
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           206..218
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           222..234
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   STRAND          238..240
+FT                   /evidence="ECO:0007829|PDB:8JAR"
+FT   HELIX           242..258
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           262..279
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           285..299
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   TURN            300..302
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   TURN            305..307
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           308..321
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           327..343
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   TURN            344..347
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           351..367
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           374..391
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           396..420
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   STRAND          423..425
+FT                   /evidence="ECO:0007829|PDB:8JAR"
+FT   HELIX           426..442
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           445..462
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   STRAND          465..467
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           468..483
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           488..505
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           513..524
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   TURN            525..527
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           530..549
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           556..560
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+FT   HELIX           567..577
+FT                   /evidence="ECO:0007829|PDB:8JAQ"
+SQ   SEQUENCE   585 AA;  66853 MW;  849A120807DA2438 CRC64;
+     MAAVELEWIP ETLYNTAISA VVDNYIRSRR DIRSLPENIQ FDVYYKLYQQ GRLCQLGSEF
+     CELEVFAKVL RALDKRHLLH HCFQALMDHG VKVASVLAYS FSRRCSYIAE SDAAVKEKAI
+     QVGFVLGGFL SDAGWYSDAE KVFLSCLQLC TLHDEMLHWF RAVECCVRLL HVRNGNCKYH
+     LGEETFKLAQ TYMDKLSKHG QQANKAALYG ELCALLFAKS HYDEAYKWCI EAMKEITAGL
+     PVKVVVDVLR QASKACVVKR EFKKAEQLIK HAVYLARDHF GSKHPKYSDT LLDYGFYLLN
+     VDNICQSVAI YQAALDIRQS VFGGKNIHVA TAHEDLAYSS YVHQYSSGKF DNALFHAERA
+     IGIITHILPE DHLLLASSKR VKALILEEIA IDCHNKETEQ RLLQEAHDLH LSSLQLAKKA
+     FGEFNVQTAK HYGNLGRLYQ SMRKFKEAEE MHIKAIQIKE QLLGQEDYEV ALSVGHLASL
+     YNYDMNQYEN AEKLYLRSIA IGKKLFGEGY SGLEYDYRGL IKLYNSIGNY EKVFEYHNVL
+     SNWNRLRDRQ YSVTDALEDV STSPQSTEEV VQSFLISQNV EGPSC
+//
