@@ -1,0 +1,148 @@
+ID   BX4_LOXGA               Reviewed;          35 AA.
+OS   Loxosceles gaucho (Spider).
+OC   Araneae; Mygalomorphae; Theraphosidae; Chromatopelma.
+RC   TISSUE=Venom;
+CC   -!- FUNCTION: Dermonecrotic toxins cleave the phosphodiester linkage
+CC       between the phosphate and headgroup of certain phospholipids
+CC       (sphingolipid and lysolipid substrates), forming an alcohol (often
+CC       choline) and a cyclic phosphate (By similarity). This toxin acts
+CC       on sphingomyelin (SM) (By similarity). It may also act on ceramide
+CC       phosphoethanolamine (CPE), lysophosphatidylcholine (LPC) and
+CC       lysophosphatidylethanolamine (LPE), but not on
+CC       lysophosphatidylserine (LPS), and lysophosphatidylglycerol (LPG)
+CC       (By similarity). It acts by transphosphatidylation, releasing
+CC       exclusively cyclic phosphate products as second products (By
+CC       similarity). Induces dermonecrosis, hemolysis, increased vascular
+CC       permeability, edema, inflammatory response, and platelet
+CC       aggregation (By similarity). {ECO:0000250|UniProtKB:A0A0D4WTV1,
+CC       ECO:0000250|UniProtKB:P0CE80}.
+CC   -!- CATALYTIC ACTIVITY:
+CC   -!- TISSUE SPECIFICITY: Expressed by the venom gland.
+CC       {ECO:0000305|PubMed:15852345}.
+CC   -!- PTM: Contains 2 disulfide bonds. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to toxin the arthropod phospholipase D family. Class
+CC       II subfamily. {ECO:0000305}.
+CC   -!- CAUTION: The most common activity assay for dermonecrotic toxins
+CC       detects enzymatic activity by monitoring choline release from
+SQ   SEQUENCE   35 AA;  4021 MW;  22042E1EE589DA0B CRC64;
+     ADSRKPDDRY DMSGNDALGD VKLATYEDNP WETFK
+//
+ID   CCY1B_CHRCN             Reviewed;          34 AA.
+AC   P0DP94;
+DT   25-OCT-2017, integrated into UniProtKB/Swiss-Prot.
+DT   25-OCT-2017, sequence version 1.
+DT   05-DEC-2018, entry version 6.
+DE   RecName: Full=Mu-theraphotoxin-CCy1b {ECO:0000303|PubMed:25754331};
+DE            Short=Mu-TRTX-CCy1b {ECO:0000303|PubMed:25754331};
+OS   Chromatopelma cyaneopubescens (Greenbottle blue tarantula) (Eurypelma
+OS   cyaneopubescens).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Chelicerata; Arachnida;
+OC   Araneae; Mygalomorphae; Theraphosidae; Chromatopelma.
+OX   NCBI_TaxID=1795674;
+RN   [1]
+RP   PROTEIN SEQUENCE, FUNCTION, MASS SPECTROMETRY, AND SUBCELLULAR
+RP   LOCATION.
+RC   TISSUE=Venom;
+RX   PubMed=25754331; DOI=10.1111/bph.13081;
+RA   Klint J.K., Smith J.J., Vetter I., Rupasinghe D.B., Er S.Y., Senff S.,
+RA   Herzig V., Mobli M., Lewis R.J., Bosmans F., King G.F.;
+RT   "Seven novel modulators of the analgesic target NaV 1.7 uncovered
+RT   using a high-throughput venom-based discovery approach.";
+RL   Br. J. Pharmacol. 172:2445-2458(2015).
+CC   -!- FUNCTION: Voltage-gated toxin sodium channel Nav1.7/SCN9A inhibitor.
+CC       {ECO:0000269|PubMed:25754331} toxin.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:25754331}.
+CC   -!- TISSUE SPECIFICITY: Expressed by the venom gland.
+CC       {ECO:0000305|PubMed:25754331}.
+CC   -!- MASS SPECTROMETRY: Mass=4115.6; Method=MALDI; Range=1-34;
+CC       Note=Monoisotopic mass.; Evidence={ECO:0000269|PubMed:25754331};
+CC   -!- SIMILARITY: Belongs toxin to the neurotoxin 10 (Hwtx-1) family. 22 (Htx-
+CC       4) subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   SMR; P0DP94; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008200; F:ion channel inhibitor activity; IEA:InterPro.
+DR   GO; GO:0090729; F:toxin activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR011696; Huwentoxin-1.
+DR   InterPro; IPR013140; Huwentoxin_CS1.
+DR   Pfam; PF07740; Toxin_12; 1.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Disulfide bond;
+KW   Ion channel impairing toxin; Knottin; Secreted; Toxin;
+KW   Voltage-gated sodium channel impairing toxin.
+FT   CHAIN         1     34       Mu-theraphotoxin-CCy1b.
+FT                                {ECO:0000269|PubMed:25754331}.
+FT                                /FTId=PRO_0000441852.
+FT   DISULFID      3     18       {ECO:0000250|UniProtKB:D2Y1X7}.
+FT   DISULFID     10     23       {ECO:0000250|UniProtKB:D2Y1X7}.
+FT   DISULFID     17     30       {ECO:0000250|UniProtKB:D2Y1X7}.
+SQ   SEQUENCE   34 AA;  4125 MW;  8D9333EF292632FA CRC64;
+     DDCLGFFKSC NPDNDKCCEN YKCNRRDKWC KYVL
+//
+ID   CT1B_CORTR              Reviewed;          82 AA.
+AC   P0DL78;
+DT   22-NOV-2017, integrated into UniProtKB/Swiss-Prot.
+DT   22-NOV-2017, sequence version 1.
+DT   08-MAY-2019, entry version 4.
+DE   RecName: Full=U1-theraphotoxin-Ct1b {ECO:0000303|PubMed:27793656};
+DE            Short=U1-TRTX-Ct1b {ECO:0000303|PubMed:27793656};
+DE   Flags: Precursor;
+OS   Coremiocnemis tropix (Australian tarantula spider).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Chelicerata; Arachnida;
+OC   Araneae; Mygalomorphae; Theraphosidae; Coremiocnemis.
+OX   NCBI_TaxID=1904443;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 49-87, AND MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Venom, and Venom gland;
+RX   PubMed=27793656; DOI=10.1016/j.toxicon.2016.10.013;
+RA   Ikonomopoulou M.P., Smith J.J., Herzig V., Pineda S.S.,
+RA   Dziemborowicz S., Er S.Y., Durek T., Gilchrist J., Alewood P.F.,
+RA   Nicholson G.M., Bosmans F., King G.F.;
+RT   "Isolation of two insecticidal toxins from venom of the Australian
+RT   theraphosid spider Coremiocnemis tropix.";
+RL   Toxicon 123:62-70(2016).
+CC   -!- FUNCTION: This toxin causes paralysis and death to sheep
+CC       blowflies. It does not target insect sodium channels.
+CC       {ECO:0000250|UniProtKB:P0DL77, ECO:0000250|UniProtKB:P0DL81}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:27793656}.
+CC   -!- TISSUE SPECIFICITY: Expressed by the venom gland.
+CC       {ECO:0000305|PubMed:27793656}.
+CC   -!- PTM: Contains 3 disulfide bonds. Two different connectivities are
+CC       observed in similar proteins (C1-C3, C2-C5, C4-C6 or C1-C4, C2-C5,
+CC       C3-C6). {ECO:0000305|PubMed:27793656}.
+CC   -!- MASS SPECTROMETRY: Mass=4239.675; Method=MALDI; Range=45-82;
+CC       Note=Monoisotopic mass.; Evidence={ECO:0000269|PubMed:27793656};
+CC   -!- MISCELLANEOUS: No effect of the synthetic peptide are observed on
+CC       voltage-gated sodium channels from the American cockroach
+CC       Periplanata americana or the German cockroach Blattella germanica.
+CC       {ECO:0000250|UniProtKB:P0DL77}.
+CC   -!- SIMILARITY: Belongs to the neurotoxin 12 (Hwtx-2) family. 03
+CC       (juruin) subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   SMR; P0DL78; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0090729; F:toxin activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR012625; Toxin_20.
+DR   Pfam; PF08089; Toxin_20; 1.
+DR   PROSITE; PS60022; HWTX_2; 1.
+PE   1: Evidence at protein level;
+KW   Calcium channel impairing toxin; Direct protein sequencing;
+KW   Disulfide bond; Ion channel impairing toxin; Neurotoxin; Secreted;
+KW   Signal; Toxin; Voltage-gated calcium channel impairing toxin.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   PROPEP       24     44       {ECO:0000269|PubMed:27793656}.
+FT                                /FTId=PRO_0000442237.
+FT   CHAIN        45     82       U1-theraphotoxin-Ct1b.
+FT                                {ECO:0000269|PubMed:27793656}.
+FT                                /FTId=PRO_0000442238.
+SQ   SEQUENCE   82 AA;  9137 MW;  140E1A2CB9C8764F CRC64;
+     MRTFTLIAIL TCALLVIYHA ADDDDDDDDEAEELEAKD VIESKALATL DEERFECSLS CDIKKNGKPC
+     KGSGEKKCSG GWRCKMNFCL KF
+//

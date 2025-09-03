@@ -1,0 +1,15 @@
+Positive Proteins
+-----------------
+This one’s about hunting down the most positively charged proteins in SwissProt. At neutral pH, amino acids D and E count as negative (–1 each), while K, R, and H count as positive (+1 each). So the task is:
+
+Find the top 1000 proteins with the highest positive charge overall.
+Find the top 1000 proteins with the highest positive charge relative to molecular weight.
+
+Both results go into FASTA files, and the header should include the protein ID, molecular weight, and charge.
+
+The main rules:
+Input = do it in a way it can handle the full SwissProt database (~3 GB).
+I only get one pass through the file (so I have to be careful with parsing + storing results efficiently).
+Output = two FASTA files with the top proteins by the two criteria.
+
+On another note there are existing tools that calculates MW, pI, amino acid composition, charge at different pH values like ExPASy ProtParam
