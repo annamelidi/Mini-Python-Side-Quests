@@ -1,0 +1,20 @@
+Mature proteins (signal peptides)
+---------------------------------
+This one is about digging into UniProt to find human proteins that have a signal peptide. Signal peptides are those short stretches at the beginning of a protein that tell the cell “send me somewhere else” (like secretion). The goal here is:
+
+Find all human proteins (so only entries with Homo sapiens).
+From those, keep only the ones with an annotated signal peptide.
+Chop off the signal peptide and save the mature part of the protein into a FASTA file.
+
+To determine if there is a signal peptide (which is first in the sequence), then the first FT (feature) line must contain a SIGNAL. The signal is not part of the mature protein, so when you extract the sequence, you must remove the signal.
+Sometimes there is a propeptide right after the signal. In such cases the propeptide is not part of the mature protein either and must be removed. Note that a FT feature can span several lines.
+
+FT   SIGNAL        1     20       {ECO:0000255}.
+FT   PROPEP       21     82       {ECO:0000269|PubMed:16384863,
+FT                                ECO:0000269|PubMed:17185225}.
+FT                                /FTId=PRO_0000434044.
+
+-----------------------------------
+
+Tools like SignalP can predict signal peptides, but here I only parse experimentally annotated ones from UniProt.
+Biopython (Bio.SeqIO, Bio.SwissProt) → can read SwissProt/UniProt .dat files and extract features like SIGNAL also.

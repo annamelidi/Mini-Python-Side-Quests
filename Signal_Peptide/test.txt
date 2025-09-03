@@ -1,0 +1,329 @@
+ID   AGRP_HUMAN              Reviewed;         132 AA.
+AC   O00253; O15459; Q2TBD9;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1997, sequence version 1.
+DT   16-OCT-2019, entry version 163.
+DE   RecName: Full=Agouti-related protein;
+DE   Flags: Precursor;
+GN   Name=AGRP; Synonyms=AGRT, ART;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=9119224; DOI=10.1101/gad.11.5.593;
+RA   Shutter J.R., Graham M., Kinsey A.C., Scully S., Luethy R.,
+RA   Stark K.L.;
+RT   "Hypothalamic expression of ART, a novel gene related to agouti, is
+RT   up-regulated in obese and diabetic mutant mice.";
+RL   Genes Dev. 11:593-602(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Adrenal gland;
+RX   PubMed=9311920; DOI=10.1126/science.278.5335.135;
+RA   Ollmann M.M., Wilson B.D., Yang Y.K., Kerns J.A., Chen Y., Gantz I.,
+RA   Barsh G.S.;
+RT   "Antagonism of central melanocortin receptors in vitro and in vivo by
+RT   agouti-related protein.";
+RL   Science 278:135-138(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT THR-67.
+RX   PubMed=11602360; DOI=10.1016/s0378-1119(01)00705-3;
+RA   Brown A.M., Mayfield D.K., Volaufova J., Argyropoulos G.;
+RT   "The gene structure and minimal promoter of the human agouti related
+RT   protein.";
+RL   Gene 277:231-238(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=11326303; DOI=10.1038/sj.mp.4000854;
+RA   Vink T., Hinney A., van Elburg A.A., van Goozen S.H., Sandkuijl L.A.,
+RA   Sinke R.J., Herpertz-Dahlmann B.M., Hebebrand J., Remschmidt H.,
+RA   van Engeland H., Adan R.A.;
+RT   "Association between an agouti-related protein gene polymorphism and
+RT   anorexia nervosa.";
+RL   Mol. Psychiatry 6:325-328(2001).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RG   SeattleSNPs variation discovery resource;
+RL   Submitted (JAN-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   DISULFIDE BONDS.
+RX   PubMed=9724530; DOI=10.1021/bi981082v;
+RA   Bures E.J., Hui J.O., Young Y., Chow D.T., Katta V., Rohde M.F.,
+RA   Zeni L., Rosenfeld R.D., Stark K.L., Haniu M.;
+RT   "Determination of disulfide structure in agouti-related protein (AGRP)
+RT   by stepwise reduction and alkylation.";
+RL   Biochemistry 37:12172-12177(1998).
+RN   [8]
+RP   FUNCTION, AND INTERACTION WITH MC3R; MC4R AND MC5R.
+RX   PubMed=9892020; DOI=10.1210/mend.13.1.0223;
+RA   Yang Y.K., Thompson D.A., Dickinson C.J., Wilken J., Barsh G.S.,
+RA   Kent S.B., Gantz I.;
+RT   "Characterization of Agouti-related protein binding to melanocortin
+RT   receptors.";
+RL   Mol. Endocrinol. 13:148-155(1999).
+RN   [9]
+RP   FUNCTION AS INVERSE AGONIST FOR MC3R AND MC4R.
+RX   PubMed=11145747; DOI=10.1210/mend.15.1.0578;
+RA   Nijenhuis W.A., Oosterom J., Adan R.A.;
+RT   "AgRP(83-132) acts as an inverse agonist on the human-melanocortin-4
+RT   receptor.";
+RL   Mol. Endocrinol. 15:164-171(2001).
+RN   [10]
+RP   IDENTIFICATION OF MATURE N-TERMINUS.
+RX   PubMed=17185225; DOI=10.1016/j.chembiol.2006.10.006;
+RA   Jackson P.J., Douglas N.R., Chai B., Binkley J., Sidow A., Barsh G.S.,
+RA   Millhauser G.L.;
+RT   "Structural and molecular evolutionary analysis of Agouti and Agouti-
+RT   related proteins.";
+RL   Chem. Biol. 13:1297-1305(2006).
+RN   [11]
+RP   IDENTIFICATION OF MATURE N-TERMINUS, CLEAVAGE BY PCSK1, AND
+RP   MUTAGENESIS OF 79-ARG--ARG-82; 85-ARG-ARG-86 AND 86-ARG--ARG-89.
+RX   PubMed=16384863; DOI=10.1210/en.2005-1373;
+RA   Creemers J.W., Pritchard L.E., Gyte A., Le Rouzic P., Meulemans S.,
+RA   Wardlaw S.L., Zhu X., Steiner D.F., Davies N., Armstrong D.,
+RA   Lawrence C.B., Luckman S.M., Schmitz C.A., Davies R.A., Brennand J.C.,
+RA   White A.;
+RT   "Agouti-related protein is posttranslationally cleaved by proprotein
+RT   convertase 1 to generate agouti-related protein (AGRP)83-132:
+RT   interaction between AGRP83-132 and melanocortin receptors cannot be
+RT   influenced by syndecan-3.";
+RL   Endocrinology 147:1621-1631(2006).
+RN   [12]
+RP   FUNCTION IN MC3R AND MC4R ENDOCYTOSIS.
+RX   PubMed=17041250; DOI=10.1074/jbc.m605982200;
+RA   Breit A., Wolff K., Kalwa H., Jarry H., Buch T., Gudermann T.;
+RT   "The natural inverse agonist agouti-related protein induces arrestin-
+RT   mediated endocytosis of melanocortin-3 and -4 receptors.";
+RL   J. Biol. Chem. 281:37447-37456(2006).
+RN   [13]
+RP   STRUCTURE BY NMR OF 87-132, FUNCTION, CIRCULAR DICHROISM, DISULFIDE
+RP   BONDS, AND MUTAGENESIS OF ARG-111.
+RX   PubMed=10371151; DOI=10.1016/s0014-5793(99)00553-0;
+RA   Bolin K.A., Anderson D.J., Trulson J.A., Thompson D.A., Wilken J.,
+RA   Kent S.B.H., Gantz I., Millhauser G.L.;
+RT   "NMR structure of a minimized human agouti related protein prepared by
+RT   total chemical synthesis.";
+RL   FEBS Lett. 451:125-131(1999).
+RN   [14]
+RP   STRUCTURE BY NMR OF 87-132, DOMAIN, AND DISULFIDE BONDS.
+RX   PubMed=11747427; DOI=10.1021/bi0117192;
+RA   McNulty J.C., Thompson D.A., Bolin K.A., Wilken J., Barsh G.S.,
+RA   Millhauser G.L.;
+RT   "High-resolution NMR structure of the chemically-synthesized
+RT   melanocortin receptor binding domain AGRP(87-132) of the agouti-
+RT   related protein.";
+RL   Biochemistry 40:15520-15527(2001).
+RN   [15]
+RP   STRUCTURE BY NMR OF 87-120.
+RX   PubMed=12056887; DOI=10.1021/bi012000x;
+RA   Jackson P.J., McNulty J.C., Yang Y.K., Thompson D.A., Chai B.,
+RA   Gantz I., Barsh G.S., Millhauser G.L.;
+RT   "Design, pharmacology, and NMR structure of a minimized cystine knot
+RT   with agouti-related protein activity.";
+RL   Biochemistry 41:7565-7572(2002).
+RN   [16]
+RP   VARIANT THR-67, AND POSSIBLE ASSOCIATION WITH OBESITY.
+RX   PubMed=12213871; DOI=10.1210/jc.2002-011834;
+RA   Argyropoulos G., Rankinen T., Neufeld D.R., Rice T., Province M.A.,
+RA   Leon A.S., Skinner J.S., Wilmore J.H., Rao D.C., Bouchard C.;
+RT   "A polymorphism in the human agouti-related protein is associated with
+RT   late-onset obesity.";
+RL   J. Clin. Endocrinol. Metab. 87:4198-4202(2002).
+RN   [17]
+RP   CHARACTERIZATION OF VARIANT THR-67, SUBCELLULAR LOCATION, AND
+RP   FUNCTION.
+RX   PubMed=15927146; DOI=10.1016/j.bcp.2005.04.033;
+RA   de Rijke C.E., Jackson P.J., Garner K.M., van Rozen R.J.,
+RA   Douglas N.R., Kas M.J., Millhauser G.L., Adan R.A.;
+RT   "Functional analysis of the Ala67Thr polymorphism in agouti related
+RT   protein associated with anorexia nervosa and leanness.";
+RL   Biochem. Pharmacol. 70:308-316(2005).
+CC   -!- FUNCTION: Plays a role in weight homeostasis. Involved in the
+CC       control of feeding behavior through the central melanocortin
+CC       system. Acts as alpha melanocyte-stimulating hormone antagonist by
+CC       inhibiting cAMP production mediated by stimulation of melanocortin
+CC       receptors within the hypothalamus and adrenal gland. Has very low
+CC       activity with MC5R (By similarity). Is an inverse agonist for MC3R
+CC       and MC4R being able to suppress their constitutive activity. It
+CC       promotes MC3R and MC4R endocytosis in an arrestin-dependent
+CC       manner. {ECO:0000250, ECO:0000269|PubMed:10371151,
+CC       ECO:0000269|PubMed:11145747, ECO:0000269|PubMed:15927146,
+CC       ECO:0000269|PubMed:17041250, ECO:0000269|PubMed:9892020}.
+CC   -!- SUBUNIT: Interacts with melanocortin receptors MC3R, MC4R and
+CC       MC5R. {ECO:0000269|PubMed:9892020}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:15927146}.
+CC       Golgi apparatus lumen {ECO:0000269|PubMed:15927146}.
+CC   -!- TISSUE SPECIFICITY: Expressed primarily in the adrenal gland,
+CC       subthalamic nucleus, and hypothalamus, with a lower level of
+CC       expression occurring in testis, lung, and kidney.
+CC   -!- DOMAIN: The presence of a 'disulfide through disulfide knot'
+CC       structurally defines this protein as a knottin.
+CC       {ECO:0000269|PubMed:11747427}.
+CC   -!- DISEASE: Obesity (OBESITY) [MIM:601665]: A condition characterized
+CC       by an increase of body weight beyond the limitation of skeletal
+CC       and physical requirements, as the result of excessive accumulation
+CC       of body fat. Note=Disease susceptibility is associated with
+CC       variations affecting the gene represented in this entry.
+CC   -!- WEB RESOURCE: Name=SeattleSNPs;
+CC       URL="http://pga.gs.washington.edu/data/agrp/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U88063; AAB52240.1; -; mRNA.
+DR   EMBL; U89485; AAB68621.1; -; mRNA.
+DR   EMBL; AF314194; AAL09457.1; -; Genomic_DNA.
+DR   EMBL; AF281309; AAK96256.1; -; Genomic_DNA.
+DR   EMBL; DQ374394; ABC88473.1; -; Genomic_DNA.
+DR   EMBL; BC110443; AAI10444.1; -; mRNA.
+DR   CCDS; CCDS10839.1; -.
+DR   RefSeq; NP_001129.1; NM_001138.1.
+DR   PDB; 1HYK; NMR; -; A=87-132.
+DR   PDB; 1MR0; NMR; -; A=87-120.
+DR   PDB; 2IQV; Model; -; B=87-132.
+DR   PDBsum; 1HYK; -.
+DR   PDBsum; 1MR0; -.
+DR   PDBsum; 2IQV; -.
+DR   SMR; O00253; -.
+DR   BioGrid; 106688; 9.
+DR   IntAct; O00253; 8.
+DR   STRING; 9606.ENSP00000290953; -.
+DR   BioMuta; AGRP; -.
+DR   MassIVE; O00253; -.
+DR   PaxDb; O00253; -.
+DR   PeptideAtlas; O00253; -.
+DR   PRIDE; O00253; -.
+DR   ProteomicsDB; 47806; -.
+DR   Ensembl; ENST00000290953; ENSP00000290953; ENSG00000159723.
+DR   GeneID; 181; -.
+DR   KEGG; hsa:181; -.
+DR   UCSC; uc002etg.1; human.
+DR   CTD; 181; -.
+DR   DisGeNET; 181; -.
+DR   GeneCards; AGRP; -.
+DR   HGNC; HGNC:330; AGRP.
+DR   HPA; HPA041017; -.
+DR   MalaCards; AGRP; -.
+DR   MIM; 601665; phenotype.
+DR   MIM; 602311; gene.
+DR   neXtProt; NX_O00253; -.
+DR   OpenTargets; ENSG00000159723; -.
+DR   PharmGKB; PA24627; -.
+DR   eggNOG; ENOG410J14P; Eukaryota.
+DR   eggNOG; ENOG410Z66T; LUCA.
+DR   GeneTree; ENSGT00940000154258; -.
+DR   HOGENOM; HOG000033861; -.
+DR   InParanoid; O00253; -.
+DR   KO; K05231; -.
+DR   OMA; TNPCSRT; -.
+DR   OrthoDB; 1404700at2759; -.
+DR   PhylomeDB; O00253; -.
+DR   TreeFam; TF330729; -.
+DR   Reactome; R-HSA-9615017; FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes.
+DR   SIGNOR; O00253; -.
+DR   EvolutionaryTrace; O00253; -.
+DR   GeneWiki; Agouti-related_peptide; -.
+DR   GenomeRNAi; 181; -.
+DR   Pharos; O00253; -.
+DR   PRO; PR:O00253; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   Bgee; ENSG00000159723; Expressed in 66 organ(s), highest expression level in left adrenal gland.
+DR   ExpressionAtlas; O00253; baseline and differential.
+DR   Genevisible; O00253; HS.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:0005796; C:Golgi lumen; IDA:UniProtKB.
+DR   GO; GO:0043025; C:neuronal cell body; IEA:Ensembl.
+DR   GO; GO:0005184; F:neuropeptide hormone activity; IDA:UniProtKB.
+DR   GO; GO:0005102; F:signaling receptor binding; TAS:ProtInc.
+DR   GO; GO:0008343; P:adult feeding behavior; IEA:Ensembl.
+DR   GO; GO:0007623; P:circadian rhythm; IEA:Ensembl.
+DR   GO; GO:0042755; P:eating behavior; IEA:Ensembl.
+DR   GO; GO:0007631; P:feeding behavior; TAS:ProtInc.
+DR   GO; GO:0009755; P:hormone-mediated signaling pathway; IEA:InterPro.
+DR   GO; GO:0048571; P:long-day photoperiodism; IEA:Ensembl.
+DR   GO; GO:0060135; P:maternal process involved in female pregnancy; IEA:Ensembl.
+DR   GO; GO:0007218; P:neuropeptide signaling pathway; IDA:UniProtKB.
+DR   GO; GO:2000253; P:positive regulation of feeding behavior; IEA:Ensembl.
+DR   GO; GO:0060259; P:regulation of feeding behavior; IDA:UniProtKB.
+DR   GO; GO:0032868; P:response to insulin; IEA:Ensembl.
+DR   Gene3D; 4.10.760.10; -; 1.
+DR   InterPro; IPR007733; Agouti.
+DR   InterPro; IPR027300; Agouti_dom.
+DR   InterPro; IPR036836; Agouti_dom_sf.
+DR   PANTHER; PTHR16551; PTHR16551; 1.
+DR   Pfam; PF05039; Agouti; 1.
+DR   SMART; SM00792; Agouti; 1.
+DR   SUPFAM; SSF57055; SSF57055; 1.
+DR   PROSITE; PS60024; AGOUTI_1; 1.
+DR   PROSITE; PS51150; AGOUTI_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Disease mutation; Disulfide bond;
+KW   Golgi apparatus; Knottin; Obesity; Reference proteome; Secreted;
+KW   Signal.
+FT   SIGNAL        1     20       {ECO:0000255}.
+FT   PROPEP       21     82       {ECO:0000269|PubMed:16384863,
+FT                                ECO:0000269|PubMed:17185225}.
+FT                                /FTId=PRO_0000434044.
+FT   CHAIN        83    132       Agouti-related protein.
+FT                                /FTId=PRO_0000001034.
+FT   DOMAIN       87    129       Agouti. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00494}.
+FT   REGION      111    113       Interaction with melanocortin receptors.
+FT   SITE         82     83       Cleavage; by PCSK1.
+FT                                {ECO:0000269|PubMed:16384863}.
+FT   DISULFID     87    102       {ECO:0000269|PubMed:10371151,
+FT                                ECO:0000269|PubMed:11747427,
+FT                                ECO:0000269|PubMed:9724530}.
+FT   DISULFID     94    108       {ECO:0000269|PubMed:10371151,
+FT                                ECO:0000269|PubMed:11747427,
+FT                                ECO:0000269|PubMed:9724530}.
+FT   DISULFID    101    119       {ECO:0000269|PubMed:10371151,
+FT                                ECO:0000269|PubMed:11747427,
+FT                                ECO:0000269|PubMed:9724530}.
+FT   DISULFID    105    129       {ECO:0000269|PubMed:10371151,
+FT                                ECO:0000269|PubMed:11747427,
+FT                                ECO:0000269|PubMed:9724530}.
+FT   DISULFID    110    117       {ECO:0000269|PubMed:10371151,
+FT                                ECO:0000269|PubMed:11747427,
+FT                                ECO:0000269|PubMed:9724530}.
+FT   VARIANT      67     67       A -> T (polymorphism that may play a role
+FT                                in obesity in an age-dependent manner;
+FT                                apparently no effect on activity;
+FT                                dbSNP:rs5030980).
+FT                                {ECO:0000269|PubMed:11602360,
+FT                                ECO:0000269|PubMed:12213871,
+FT                                ECO:0000269|PubMed:15927146}.
+FT                                /FTId=VAR_015385.
+FT   MUTAGEN      79     82       REPR->AEPA: Cleavage is blocked.
+FT                                {ECO:0000269|PubMed:16384863}.
+FT   MUTAGEN      85     86       RR->AA: No effect on cleavage.
+FT                                {ECO:0000269|PubMed:16384863}.
+FT   MUTAGEN      86     89       RCVR->ACVA: No effect on cleavage.
+FT                                {ECO:0000269|PubMed:16384863}.
+FT   MUTAGEN     111    111       R->A: Abolishes inhibition of cAMP
+FT                                production in response to melanocortin
+FT                                receptor stimulation.
+FT                                {ECO:0000269|PubMed:10371151}.
+FT   CONFLICT      6      6       V -> L (in Ref. 2; AAB68621).
+FT                                {ECO:0000305}.
+FT   STRAND       95     97       {ECO:0000244|PDB:1HYK}.
+FT   STRAND      101    103       {ECO:0000244|PDB:1HYK}.
+FT   STRAND      107    115       {ECO:0000244|PDB:1HYK}.
+FT   STRAND      117    120       {ECO:0000244|PDB:1HYK}.
+FT   STRAND      125    127       {ECO:0000244|PDB:1HYK}.
+SQ   SEQUENCE   132 AA;  14440 MW;  1CCBE112C3EB10F5 CRC64;
+     MLTAAVLSCA LLLALPATRG AQMGLAPMEG IRRPDQALLP ELPGLGLRAP LKKTTAEQAE
+     EDLLQEAQAL AEVLDLQDRE PRSSRRCVRL HESCLGQQVP CCDPCATCYC RFFNAFCYCR
+     KLGTAMNPCS RT
+//
